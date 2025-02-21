@@ -18,13 +18,12 @@ Para executar o aplicativo, siga os passos abaixo:
 
 1 - Clone o repositório ou abra a pasta e de um Ctrl + C:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
 2 -  Abra o código no seu ambiente de desenvolvimento (IDE): Utilize uma IDE como o IntelliJ IDEA, Eclipse ou NetBeans para abrir o código Java.
 
 Compile e execute o código: Após abrir o código, compile e execute a classe Tela para iniciar a aplicação.
 
 Exemplo de Uso
+
 Passo 1: Inserir o número
 Digite o número desejado no campo de texto.
 
