@@ -1,4 +1,4 @@
-Conversão de Números
+<h1>Conversão de Números</h1>
 Este é um aplicativo simples em Java que permite ao usuário inserir um número e escolher entre três operações matemáticas diferentes: Round, Floor e Cecil. O aplicativo utiliza a biblioteca Swing para criar a interface gráfica.
 
 Funcionalidades
@@ -13,14 +13,14 @@ Tecnologias Utilizadas
 Java: A linguagem de programação utilizada para o desenvolvimento do aplicativo.
 Swing: Biblioteca gráfica para a criação da interface com o usuário.
 Como Rodar o Código
+
 Para executar o aplicativo, siga os passos abaixo:
 
-Clone o repositório:
-bash
-Copiar
-Editar
+1 - Clone o repositório ou abra a pasta e de um Ctrl + C:
+
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Abra o código no seu ambiente de desenvolvimento (IDE): Utilize uma IDE como o IntelliJ IDEA, Eclipse ou NetBeans para abrir o código Java.
+
+2 -  Abra o código no seu ambiente de desenvolvimento (IDE): Utilize uma IDE como o IntelliJ IDEA, Eclipse ou NetBeans para abrir o código Java.
 
 Compile e execute o código: Após abrir o código, compile e execute a classe Tela para iniciar a aplicação.
 
